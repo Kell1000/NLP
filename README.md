@@ -1,6 +1,6 @@
-# Extraction de données de crypto-monnaies avec Selenium
+## Extraction de données de crypto-monnaies avec Selenium
 
-## Description du projet
+### Description du projet
 Ce projet montre comment **extraire automatiquement les données de crypto-monnaies** depuis le site [CoinMarketCap](https://coinmarketcap.com/) à l’aide de **Selenium en Python**.
 
 Il permet d’obtenir :
@@ -14,7 +14,7 @@ Les données sont ensuite enregistrées dans un fichier CSV (`data/cryptos_data.
 
 ---
 
-## Technologies utilisées
+## #Technologies utilisées
 - **Python 3.8+**
 - **Selenium**
 - **pandas**
@@ -22,9 +22,8 @@ Les données sont ensuite enregistrées dans un fichier CSV (`data/cryptos_data.
 
 ---
 
-## ⚙️ Installation et configuration
+### Installation et configuration
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/votre-nom/crypto-scraping-selenium.git
-cd crypto-scraping-selenium
+git clone https://github.com/Kell1000/NLP.git
