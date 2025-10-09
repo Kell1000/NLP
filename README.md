@@ -14,7 +14,7 @@ Les données sont ensuite enregistrées dans un fichier CSV (`data/cryptos_data.
 
 ---
 
-## #Technologies utilisées
+### Technologies utilisées
 - **Python 3.8+**
 - **Selenium**
 - **pandas**
