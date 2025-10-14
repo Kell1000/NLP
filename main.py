@@ -38,6 +38,17 @@ cryptos_data = []
 # --- Étape 4 : Parcours et extraction des informations ---
 for row in rows[:20]:  # on limite à 20 premières cryptos
     try:
+#name = row.find_element(By.XPATH, './td[3]//p[contains(@class,"coin-item-symbol")]').text
+#Soooooooooooo :
+#row → correspond à une ligne <tr> du tableau.
+#find_element → cherche un seul élément à l’intérieur de cette ligne.
+#By.XPATH → indique qu’on utilise un sélecteur XPath pour repérer l’élément.
+#'./td[3]//p[contains(@class,"coin-item-symbol")]' :
+#./td[3] → va dans la 3ᵉ cellule (<td>) de la ligne.
+#//p[contains(@class,"coin-item-symbol")] → cherche un paragraphe <p> dont la classe contient le mot coin-item-symbol.
+#.text → récupère le texte à l’intérieur de cette balise (ex. "BTC").
+
+                                                         
         name = row.find_element(By.XPATH, './td[3]//p[contains(@class,"coin-item-symbol")]').text
         full_name = row.find_element(By.XPATH, './td[3]//p[contains(@class,"coin-item-name")]').text
         price = row.find_element(By.XPATH, './td[4]').text
