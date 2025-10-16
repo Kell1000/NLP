@@ -1,0 +1,81 @@
+Heure,Devise,Evenement,Actuel,Prévision,Précedent
+00:30,  JPY,Tertiary Industry Activity Index (Aug),-4.30, ,1.20
+02:00,  GBP,Construction Output (MoM) (Aug),-0.3%,-0.1%,0.0%
+02:00,  GBP,U.K. Construction Output (YoY) (Aug),1.0%, ,1.8%
+02:00,  GBP,GDP (MoM) (Aug),0.1%,0.1%,-0.1%
+02:00,  GBP,GDP (YoY) (Aug),1.3%,1.3%,1.5%
+02:00,  GBP,Index of Services,0.4%,0.4%,0.4%
+02:00,  GBP,Industrial Production (MoM) (Aug),0.4%,0.2%,-0.4%
+02:00,  GBP,Industrial Production (YoY) (Aug),-0.7%,-0.6%,-0.1%
+02:00,  GBP,Manufacturing Production (YoY) (Aug),-0.8%,-1.0%,-0.1%
+02:00,  GBP,Manufacturing Production (MoM) (Aug),0.7%,0.2%,-1.1%
+02:00,  GBP,Monthly GDP 3M/3M Change (Aug),0.3%,0.3%,0.2%
+02:00,  GBP,Trade Balance (Aug),-21.18B,-21.80B,-20.65B
+02:00,  GBP,Trade Balance Non-EU (Aug),-8.29B, ,-8.80B
+03:00,  CHF,SECO Economic Forecasts  , , , 
+04:00,  EUR,Italian CPI (YoY) (Sep),1.6%,1.6%,1.6%
+04:00,  EUR,Italian CPI (MoM) (Sep),-0.2%,-0.2%,0.1%
+04:00,  EUR,Italian CPI Ex Tobacco (YoY) (Sep),1.4%, ,1.4%
+04:00,  EUR,Italian HICP (YoY) (Sep),1.8%,1.8%,1.6%
+04:00,  EUR,Italian HICP (MoM) (Sep),1.3%,1.3%,-0.2%
+04:30,  GBP,BOE Credit Conditions Survey  , , , 
+05:00,  EUR,Italian Trade Balance (Aug),2.050B,8.940B,7.829B
+05:00,  EUR,Italian Trade Balance EU (Aug),0.17B, ,1.83B
+05:00,  EUR,Spanish 10-Year Obligacion Auction,3.085%, ,3.230%
+05:00,  EUR,Spanish 5-Year Bonos Auction,2.443%, ,2.483%
+05:00,  EUR,Spanish 7-Year Obligacion Auction,2.716%, ,2.922%
+05:00,  EUR,Trade Balance (Aug),1.0B,6.9B,12.7B
+06:00,  USD,IMF Meetings  , , , 
+06:00,  EUR,German Buba Monthly Report  , , , 
+06:10,  GBP,NIESR Monthly GDP Tracker,0.3%, ,0.3%
+08:00,  USD,FOMC Member Barkin Speaks  , , , 
+08:00,  INR,M3 Money Supply, , ,9.2%
+08:00,  BRL,IBC-Br Economic Activity (Aug),0.40%, ,-0.50%
+10 min,  CAD,Housing Starts (Sep), ,258.0K,245.8K
+25 min,  USD,Philadelphia Fed Manufacturing Index (Oct), ,8.6,23.2
+25 min,  USD,Philly Fed Business Conditions (Oct), , ,31.5
+25 min,  USD,Philly Fed CAPEX Index (Oct), , ,12.50
+25 min,  USD,Philly Fed Employment (Oct), , ,5.6
+25 min,  USD,Philly Fed New Orders (Oct), , ,12.4
+25 min,  USD,Philly Fed Prices Paid (Oct), , ,46.80
+25 min,  CAD,New Motor Vehicle Sales (MoM) (Aug), , ,179.8K
+55 min,  GBP,BoE MPC Member Mann Speaks  , , , 
+55 min,  USD,Fed Vice Chair for Supervision Barr Speaks  , , , 
+55 min,  USD,Fed Waller Speaks  , , , 
+55 min,  RUB,Central Bank reserves (USD), , ,722.5B
+10:00,  USD,Business Inventories (MoM) (Aug), ,0.1%,0.2%
+10:00,  USD,FOMC Member Bowman Speaks  , , , 
+10:00,  USD,NAHB Housing Market Index (Oct), ,33,32
+10:00,  USD,Retail Inventories Ex Auto (Aug), ,0.3%,0.3%
+10:30,  USD,Natural Gas Storage, ,76B,80B
+10:45,  GBP,BoE Deputy Governor Woods Speaks  , , , 
+10:45,  GBP,BoE MPC Member Mann Speaks  , , , 
+11:30,  USD,4-Week Bill Auction, , ,4.030%
+11:30,  USD,8-Week Bill Auction, , ,3.955%
+11:45,  EUR,ECB's Lane Speaks  , , , 
+12:00,  USD,Crude Oil Inventories, ,0.300M,3.715M
+12:00,  USD,EIA Refinery Crude Runs (WoW), , ,0.129M
+12:00,  USD,Crude Oil Imports, , ,0.731M
+12:00,  USD,Cushing Crude Oil Inventories, , ,-0.763M
+12:00,  USD,Distillate Fuel Production, , ,0.210M
+12:00,  USD,EIA Weekly Distillates Stocks, , ,-2.018M
+12:00,  USD,Gasoline Production, , ,0.409M
+12:00,  USD,Heating Oil Stockpiles, , ,-0.060M
+12:00,  USD,EIA Weekly Refinery Utilization Rates (WoW), , ,1.0%
+12:00,  USD,Gasoline Inventories, , ,-1.601M
+12:00,  EUR,ECB President Lagarde Speaks  , , , 
+12:45,  USD,FOMC Member Barkin Speaks  , , , 
+13:00,  USD,Atlanta Fed GDPNow (Q3)  , , , 
+13:30,  CAD,BoC Gov Macklem Speaks  , , , 
+16:30,  USD,API Weekly Crude Oil Stock, ,0.120M,2.780M
+16:30,  USD,Fed's Balance Sheet, , ,"6,591B"
+16:30,  USD,Reserve Balances with Federal Reserve Banks, , ,3.034T
+17:00,  KRW,Export Price Index (YoY) (Sep), , ,-1.0%
+17:00,  KRW,Import Price Index (YoY) (Sep), , ,-2.2%
+18:00,  USD,FOMC Member Kashkari Speaks  , , , 
+19:00,  KRW,Unemployment Rate (Sep), , ,2.6%
+19:50,  JPY,Foreign Bonds Buying, , ,-926.6B
+19:50,  JPY,Foreign Investments in Japanese Stocks, , ,"2,479.9B"
+20:30,  SGD,Non-Oil Exports (MoM) (Sep), , ,-8.90%
+20:30,  SGD,Non-Oil Exports (YoY) (Sep), , ,-11.30%
+21:30,  SGD,Trade Balance (Sep), , ,5.078B
